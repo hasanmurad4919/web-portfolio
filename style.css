@@ -1,0 +1,166 @@
+.menubar{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    margin-left: 900px;
+    margin-top: 15px; 
+}
+.menubar-text{
+    padding-right: 50px;
+}
+.greetings{
+    margin-top: 40px;
+    margin-bottom: 100px;
+}
+.hello-font{
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 400;
+    margin: 0;
+    font-size: 50px;
+}
+.hello-color{
+    color: #363958;
+}
+.name-color{
+    color: #FF8367;
+}
+.paragraph-font{
+    font-family: 'Roboto', sans-serif;
+    width: 60%;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+.haif-width{
+    width: 40%;
+    margin-left: 5%;
+    float: left;
+    padding-left: 2%;
+}
+.haif-width img{
+    width: 80%;
+    
+}
+.button{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient( #ec6648,#FF8063);
+    padding: 10px 30px;
+    border-radius: 7px;
+    font-weight: 700;
+}
+.about{
+    margin-top: 500px;
+    margin-bottom: 1000px;
+
+}
+.about-font{
+    font-size: 35px;
+}
+.aboutpara{
+    width: 80%;
+}
+.project{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(237, 241, 241);
+    height: 700px;
+}
+.prjct-text{
+    padding-top: 8%;
+    text-align: center;
+}
+
+.project-img{
+    width: 100%;
+}
+.project-header{
+    
+    font-family: 'Roboto', sans-serif;
+    color: #363958;
+    padding-left: 3%;
+    
+}
+.project-para{
+    width: 90%;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    margin-bottom: 7%;
+    padding-left: 3%;
+
+
+}
+.three-project{
+    width: 25%;
+    float: left;
+    margin-left: 6%;
+    margin-top: 5%;
+    border-radius: 10px;
+    background-color: white;
+    
+}
+.skills{
+    margin-bottom: 40%;
+
+}
+.skills-img{
+    width: 65%;
+}
+.three-skills{
+    width: 25%;
+    float: left;
+    margin-left: 8%;
+    margin-top: 3%;
+    
+}
+.skills-text{
+    padding-left: 23%;
+    font-family: 'Roboto', sans-serif;
+    color: #363958;
+    font-weight: 700;
+}
+.inquiry{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 25%;
+    background-image: url(images/bg-img.png); 
+    background-size: cover;
+    height: 165px;
+    width: 50%;
+   
+}
+.inquiry-div{
+    padding-top: 50px;
+}
+.inquiry-font{
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 40px;
+    padding-left: 10%;
+    padding-right: 40%;
+}
+.connected-txt{
+    color: gray;
+    font-family: 'Bebas Neue', cursive;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 200;
+    margin: 0;
+}
+.mail{
+    margin-top: 1%;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 1%;
+}
+.logo{
+    margin-left: 45.6%;
+
+}
+.logo img{
+    width: 4%;
+    padding-right: 2%;
+
+    
+}
